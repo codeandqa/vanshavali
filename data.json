@@ -13,7 +13,7 @@
     "positionName": "Mansa Shahi",
     "children": [
       {
-        "name": "Hanuman Sewak Shahi",
+        "name": "Prabhu Shahi",
         "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
         "area": "Corporate",
         "profileUrl": "http://example.com/employee/profile",
@@ -11955,8 +11955,8 @@
         ]
       },
       {
-        "name": " Leverling Janet",
-        "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/female.jpg",
+        "name": "Hanuman Sewak Shahi",
+        "imageUrl": "",
         "area": "Corporate",
         "profileUrl": "http://example.com/employee/profile",
         "office": "CEO office",
@@ -18037,8 +18037,8 @@
         ]
       },
       {
-        "name": " Leverling Janet",
-        "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/female.jpg",
+        "name": "Ram Sewak Shahi",
+        "imageUrl": "",
         "area": "Corporate",
         "profileUrl": "http://example.com/employee/profile",
         "office": "CEO office",
