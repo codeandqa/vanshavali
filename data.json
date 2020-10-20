@@ -1,7 +1,7 @@
 {
     "name": "Bhanu Pratap Shahi",
-    "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/cto.jpg",
-    "area": "Mansa Shahi",
+    "imageUrl": "",
+    "area": "",
     "profileUrl": "http://example.com/employee/profile",
     "office": "CTO office",
     "tags": "Ceo,tag1,manager,cto",
@@ -10,7 +10,7 @@
       "type": "business",
       "value": "Business first"
     },
-    "positionName": "",
+    "positionName": "Mansa Shahi",
     "children": [
       {
         "name": "Davolio Nancy",
